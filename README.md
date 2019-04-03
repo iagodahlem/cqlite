@@ -1,6 +1,6 @@
 # cqlite
 
-Writing a sqlite clone in C, based on [cstack db_tutorial](https://cstack.github.io/db_tutorial/).
+Sqlite clone in C, based on [cstack db_tutorial](https://cstack.github.io/db_tutorial/).
 
 ## Usage
 
